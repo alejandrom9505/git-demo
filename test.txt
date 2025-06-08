@@ -1,4 +1,0 @@
-Esto es una prueba
-Esto se agrego desde github
-
-prueba usnado git gui&
